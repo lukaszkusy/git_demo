@@ -1,2 +1,4 @@
 RECIPE:
 1. Get flour
+2. Water
+3. Soy milk
